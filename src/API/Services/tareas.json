@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Revisar correos electrónicos",
+        "descripcion": "Prioridad alta: Revisar los correos importantes y responder a los más urgentes.",
+        "prioridad": "alta prioridad",
+        "fecha": "2025-01-21"
+    },
+    {
+        "id": 2,
+        "nombre": "Actualizar informe mensual",
+        "descripcion": "Prioridad media: Recopilar datos y actualizar el informe de actividades del mes.",
+        "prioridad": "media prioridad",
+        "fecha": "2025-01-22"
+    },
+    {
+        "id": 3,
+        "nombre": "Llamar a cliente X",
+        "descripcion": "Prioridad alta: Realizar la llamada para resolver un problema urgente del cliente.",
+        "prioridad": "alta prioridad",
+        "fecha": "2025-01-21"
+    },
+    {
+        "id": 4,
+        "nombre": "Reunión con el equipo de ventas",
+        "descripcion": "Prioridad media: Coordinar reunión para evaluar los resultados trimestrales.",
+        "prioridad": "media prioridad",
+        "fecha": "2025-01-23"
+    },
+    {
+        "id": 5,
+        "nombre": "Actualizar sistema de gestión",
+        "descripcion": "Prioridad baja: Hacer mantenimiento a la plataforma de gestión.",
+        "prioridad": "baja prioridad",
+        "fecha": "2025-01-24"
+    },
+    {
+        "id": 6,
+        "nombre": "Revisar presupuesto del mes",
+        "descripcion": "Prioridad media: Verificar si el gasto está dentro de los límites establecidos.",
+        "prioridad": "media prioridad",
+        "fecha": "2025-01-22"
+    },
+    {
+        "id": 7,
+        "nombre": "Enviar propuesta a cliente Y",
+        "descripcion": "Prioridad alta: Preparar y enviar la propuesta para la negociación.",
+        "prioridad": "alta prioridad",
+        "fecha": "2025-01-21"
+    },
+    {
+        "id": 8,
+        "nombre": "Planificar actividades del próximo mes",
+        "descripcion": "Prioridad baja: Hacer una lista preliminar de tareas y eventos para el próximo mes.",
+        "prioridad": "baja prioridad",
+        "fecha": "2025-01-25"
+    },
+    {
+        "id": 9,
+        "nombre": "Revisión de proyectos en curso",
+        "descripcion": "Prioridad media: Evaluar el progreso de los proyectos y discutir posibles ajustes.",
+        "prioridad": "media prioridad",
+        "fecha": "2025-01-22"
+    },
+    {
+        "id": 10,
+        "nombre": "Organizar archivos digitales",
+        "descripcion": "Prioridad baja: Clasificar y archivar documentos digitales antiguos.",
+        "prioridad": "baja prioridad",
+        "fecha": "2025-01-26"
+    }
+]
