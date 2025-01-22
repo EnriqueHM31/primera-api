@@ -8,7 +8,7 @@ const PORT = 3000
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    res.send('Estoy usando una api verdad funciona ya verdad')
+    res.send('APRENDIENDO LAS BASES DE UNA API')
 })
 
 app.use('/api/tareas', router)
