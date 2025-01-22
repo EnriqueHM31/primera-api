@@ -5,7 +5,9 @@ const app = express()
 
 const PORT = 3000
 
-app.get('/', (_req, res) => {
+app.use(express.json())
+
+app.get('/', (req, res) => {
     res.send('Estoy usando una api verdad funciona ya verdad')
 })
 
