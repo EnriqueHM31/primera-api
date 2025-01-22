@@ -8,13 +8,28 @@ export const getTareasSinPrioridad = () => {
             {
             "id": tarea.id,
             "nombre":tarea.nombre,
-            "tarea":tarea.descripcion,
+            "descripcion":tarea.descripcion,
             "fecha":tarea.fecha  }
     )
     
     })
 }
 
-export const postTareas = (Tarea) => {
-    null
+export const getTareasID = (id) => {
+    return tareas.find(tarea => tarea.id === id)
+}
+
+export const postTareas = (data ) => {
+
+    const { nombre, descripcion, prioridad, fecha } = data
+    const newTarea ={
+        id: tareas.length + 1,
+        nombre,
+        descripcion,
+        prioridad,
+        fecha
+    }
+
+    tareas.push(newTarea)
+    return newTarea
 }
